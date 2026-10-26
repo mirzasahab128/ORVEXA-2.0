@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Emptied 2026-10-26 (finalize track B): this file was merged-build
+     output assigning fixed resource IDs, including duplicate entries
+     within itself. A source tree must not pin resource IDs; aapt
+     generates them fresh at build time. (Kept as an empty file because
+     the GitHub push route cannot delete files from the repo.) -->
+<resources>
+</resources>

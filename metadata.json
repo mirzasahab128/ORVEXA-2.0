@@ -1,0 +1,6 @@
+{
+  "name": "ORVEXA",
+  "description": "ORVEXA - Idea Intelligence and Validation Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

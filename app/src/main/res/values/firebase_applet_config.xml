@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Emptied 2026-10-26 (finalize track B): this file duplicated the
+     firestore_database_id string already defined in strings.xml, which
+     breaks a real Gradle build with a duplicate-resource error. The
+     value now lives only in strings.xml. (Kept as an empty file because
+     the GitHub push route cannot delete files from the repo.) -->
+<resources>
+</resources>
